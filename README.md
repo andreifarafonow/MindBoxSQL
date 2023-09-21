@@ -8,3 +8,4 @@ LEFT JOIN Categories ON ProductsCategories.CategoryId = Categories.Id;
 ```
 
 ### Результат:
+![Результат](https://github.com/andreifarafonow/MindBoxSQL/blob/main/image/result.png?raw=true)
